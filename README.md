@@ -2,7 +2,7 @@
 
 Welcome Cymbal Coffee Competitor! This is the app you will be using to win our business!
 
-No, it's not written in Java! It's a simple app written in Go. You don't need to read the code or even understand how it works! All you have to do is get it running!
+No, it's not written in Java! It's a simple app written in Go. You don't need to read the code or even understand how it works! All you have to do is get it running!hghg
 
 ## How do I get started?
 
